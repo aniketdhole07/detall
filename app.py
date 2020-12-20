@@ -2,8 +2,6 @@ import streamlit as st
 import tensorflow.keras
 from PIL import Image, ImageOps
 import numpy as np
-from diabetic import diabetic_retinopathy
-from redness import redi
 import time
 
 def main():
